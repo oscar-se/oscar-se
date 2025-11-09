@@ -8,23 +8,23 @@
 
     
 
-<p style="font-size:19px ; font-weight: bold; font-family: 'Times New Roman', Times, serif">About me</p>
+<p style="font-size:24px ; font-weight: bold; font-family: 'Times New Roman', Times, serif">About me</p>
 <p style="font-size:17px; font-family: 'Times New Roman', Times, serif">
-👋 Xin chào! Mình là <b>Văn Đình</b> — một <b>Lập trình viên Backend</b> yêu thích việc xây dựng hệ thống ổn định, hiệu quả và dễ mở rộng.<br>
-🚀 Mình tập trung phát triển backend bằng <b>Java Spring Boot</b>, thiết kế <b>RESTful API.</b><br>
-🎯 Mục tiêu của mình là trở thành một <b>Backend Engineer</b> chuyên nghiệp.<br>
-💬 Có thể trao đổi với mình về <b>Java, Spring Boot, Docker hoặc REST API</b> nhé!<br>
-🎓 <b>Học vấn:</b> Sinh viên ngành <b>Kỹ thuật phần mềm</b><br>
-⚙️ <b>Công nghệ yêu thích:</b> Java | Spring | Docker | PostgreSQL<br>
-💌 <b>Liên hệ:</b> nvandinh.dev@gmail.com
-</p> <br>
+👋 Hi there! I'm <b>Van Dinh</b> — a <b>Backend Developer</b> passionate about building stable, efficient, and scalable systems.<br>
+🚀 I focus on backend development using <b>Java Spring Boot</b> and designing <b>RESTful APIs</b>.<br>
+🎯 My goal is to become a professional <b>Backend Engineer</b> who can design and develop high-quality systems.<br>
+💬 Feel free to reach out to me about <b>Java, Spring Boot, Docker, or REST API</b>!<br>
+🎓 <b>Education:</b> Software Engineering student<br>
+⚙️ <b>Favorite Technologies:</b> Java | Spring | Docker | PostgreSQL<br>
+💌 <b>Contact:</b> nvandinh.dev@gmail.com
+</p><br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="" height="5" width="100%">
 </div>
 
 
-<p style="font-size:19px ; font-weight: bold; font-family: 'Times New Roman', Times, serif">Connect with me</p>
+<p style="font-size:24px ; font-weight: bold; font-family: 'Times New Roman', Times, serif">Connect with me</p>
 <div>
   <a href="mailto:nvandinh.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" width="80"/>
@@ -48,7 +48,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="" height="5" width="100%">
 </div>
 
-<p style="font-size:19px ; font-weight: bold; font-family: 'Times New Roman', Times, serif">Languages and Tools</p>
+<p style="font-size:24px ; font-weight: bold; font-family: 'Times New Roman', Times, serif">Languages and Tools</p>
 
 
 <div>
