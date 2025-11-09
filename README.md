@@ -70,9 +70,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanDinhDev&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanDinhDev&theme=radical" alt="GitHub Streak"/>
-</div>
-
 
 
